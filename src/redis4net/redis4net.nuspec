@@ -17,6 +17,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="src\redis4net\bin\Release\redis4net.dll" target="lib\net452\redis4net.dll" />
+    <file src="bin\Release\redis4net.dll" target="lib\net452\redis4net.dll" />
   </files>
 </package>
